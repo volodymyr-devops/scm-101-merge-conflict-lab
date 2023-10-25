@@ -1,6 +1,6 @@
 # SCM 101: Introduction to Git (AE, DE, DO, CNE)
 ## Description
-This is an introductory curse that covers the fundamentals of Git. The curse is suitable for IT profesionals interested in leaning about Git to enhance their software development practices.
+This is an introductory curse that covers the fundamentals of Git. Participants will learn about version control, the core concepts of git, basic git workflows, branching, remotes and merge requests. The curse is suitable for IT profesionals interested in leaning about Git to enhance their software development practices.
 
 ## Duration
 2 Days

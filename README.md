@@ -1,6 +1,6 @@
 # SCM 101: Introduction to Git (AE, DE, DO, CNE)
 ## Description
-This is an introductory curse that covers the fundamentals of Git. The curse is suitable for IT profesionals interested in leaning about Git to enhance their software development practices.
+This is an introductory course that covers the fundamentals of Git. The course is suitable for IT professionals interested in learning about Git to enhance their software development practices.
 
 ## Duration
 2 Days
@@ -16,7 +16,7 @@ N/A
 
 ## Skills
 * Install and configure git
-* Handle basic git workflows including creating repositories, brunches, merging, pushing etc.
+* Handle basic git workflows including creating repositories, branches, merging, pushing etc.
 * Create, review and merge pull requests
 
 ## Abilities 
@@ -25,9 +25,9 @@ N/A
 
 ## Curriculum
 * Introduction to Version Control & Git History (Importance, types, and overview of Git)
-* Git Core Concepts & Installation (Repository, comits, working directory, installing Git)
-* Basic Git Workflow (Initializing, adding files, making comits, comit history)
-* Introduction to Brunches (Creating, switching, merging brunches, merge conflicts)
+* Git Core Concepts & Installation (Repository, commits, working directory, installing Git)
+* Basic Git Workflow (Initializing, adding files, making commits, commit history)
+* Introduction to Branches (Creating, switching, merging branches, merge conflicts)
 * Git Remotes (Remote repositories)
 * Merge Requests (Creating, reviewing, and merging pull/merge requests)
-* Git guidelines & best practices (Comit messages, atomic comits, branching guidelines, gitignore, gitkeep)
+* Git guidelines & best practices (Commit messages, atomic commits, branching guidelines, gitignore, gitkeep)
